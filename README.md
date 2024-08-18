@@ -1,3 +1,4 @@
 # my-github-
-This is my first Git Repository
-Author shivam shrivastav
+This is my first Git Repository.
+<br>
+Author-shivam shrivastav
